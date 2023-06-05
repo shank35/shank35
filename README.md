@@ -8,7 +8,7 @@
 
 ### Talk with me, I am kinda awesome:
 [<img align="left" alt="linkedin | LinkedIn" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" />][linkedin]
-[<img align="left" alt="portfolio | Portfolio" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][portfolio]
+[<img align="left" alt="portfolio | Portfolio" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Crystal_Project_browser.png/600px-Crystal_Project_browser.png" />][portfolio]
 
 <br />
 
