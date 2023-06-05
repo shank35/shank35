@@ -8,9 +8,9 @@
 
 ### Talk with me, I am kinda awesome:
 [<img align="left" alt="linkedin | LinkedIn" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" />][linkedin]
-[<img align="left" alt="portfolio | Portfolio" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Ic_work_48px.svg/1024px-Ic_work_48px.svg.png" />][portfolio]
 
-
+### My portfolio website!
+[<img align="left" alt="portfolio | Portfolio" width="30px" src="https://cdn-icons.flaticon.com/png/512/3135/premium/3135604.png?token=exp=1643507332~hmac=d29b0c862eeb1760db9078a76d429a74" />][portfolio]
 
 
 <br />
