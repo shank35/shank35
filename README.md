@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning Python.
 - 👯 I’m looking to collaborate on open source
 - 📫 How to reach me: My email shankkim35@gmail.com
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like to play volleyball.
 
 ### Talk with me, I am kinda awesome:
@@ -30,12 +29,12 @@
 
 :zap: GitHub Stats
 
-<img align="left" alt="Shan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shank35&show_icons=true&hide_border=true&layout=compact" />
+<img align="left" width="450px" alt="Shan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shank35&show_icons=true&hide_border=true" />
 
 :zap: Most Used Languages
 
 
-<img align="left" alt="Shan's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shank35&layout=compact" />
+<img align="left" width="450px" alt="Shan's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shank35" />
 
 [linkedin]: https://linkedin.com/in/shan-kim
 [portfolio]: https://shankim.net/
