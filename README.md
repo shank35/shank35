@@ -29,12 +29,12 @@
 
 :zap: GitHub Stats
 
-<img align="left" width="450px" alt="Shan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shank35&show_icons=true&hide_border=true" />
+<img align="left" alt="Shan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shank35&show_icons=true&hide_border=true&layout=compact" />
 
 :zap: Most Used Languages
 
 
-<img align="left" width="450px" alt="Shan's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shank35" />
+<img align="left" alt="Shan's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shank35&layout=compact" />
 
 [linkedin]: https://linkedin.com/in/shan-kim
 [portfolio]: https://shankim.net/
