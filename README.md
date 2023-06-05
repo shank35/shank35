@@ -10,8 +10,7 @@
 [<img align="left" alt="linkedin | LinkedIn" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" />][linkedin]
 
 ### My portfolio website!
-[<img align="left" alt="portfolio | Portfolio" width="30px" src="https://cdn-icons.flaticon.com/png/512/1818/premium/1818827.png?token=exp=1637325253~hmac=73610ff763e1eab63f5b3d00a594012e" />][portfolio]
-
+[<img align="left" alt="portfolio | Portfolio" width="30px" src="https://icon-library.com/images/white-website-icon/white-website-icon-6.jpg" />][portfolio]
 
 <br />
 
