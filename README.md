@@ -29,12 +29,12 @@
 
 <table>
   <tr>
-    :zap: GitHub Stats
     <td>
+      :zap: GitHub Stats
       <img alt="Shan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shank35&show_icons=true&hide_border=true" />
     </td>
-    :zap: Most Used Languages
     <td>
+      :zap: Most Used Languages
       <img alt="Shan's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shank35" />
     </td>
   </tr>
