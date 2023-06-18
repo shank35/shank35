@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on my YouTube clone.
 - 🌱 I’m currently learning Python.
-- 👯 I’m looking to collaborate on open source
 - 📫 How to reach me: My email shankkim35@gmail.com
 - ⚡ Fun fact: I like to play volleyball.
 
