@@ -1,4 +1,3 @@
-how do i make the links open to another tab
 ### Hello World, I'm Shan 👋
 
 - 🔭 I’m currently working on my YouTube clone.
