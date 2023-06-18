@@ -7,9 +7,7 @@ how do i make the links open to another tab
 - ⚡ Fun fact: I like to play volleyball.
 
 ### Talk with me, I am kinda awesome:
-<a href="https://linkedin.com/in/shan-kim" target="_blank">
-  <img align="left" alt="linkedin | LinkedIn" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" />
-</a>
+[<img align="left" alt="linkedin | LinkedIn" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" target="_blank" />][linkedin]
 
 
 <br />
