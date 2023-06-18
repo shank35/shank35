@@ -9,11 +9,10 @@ how do i make the links open to another tab
 ### Talk with me, I am kinda awesome:
 [<img align="left" alt="linkedin | LinkedIn" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" target="_blank" />][linkedin]
 
-
 <br />
 
 ### My portfolio website!
-[<img align="left" alt="portfolio | Portfolio" width="30px" src="https://icon-library.com/images/white-website-icon/white-website-icon-6.jpg" />][portfolio]
+[<img align="left" alt="portfolio | Portfolio" width="30px" src="https://icon-library.com/images/white-website-icon/white-website-icon-6.jpg" target="_blank" />][portfolio]
 
 <br />
 
