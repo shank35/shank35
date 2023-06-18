@@ -6,14 +6,13 @@
 - ⚡ Fun fact: I like to play volleyball.
 
 ### Talk with me, I am kinda awesome:
-[<img align="left" alt="linkedin | LinkedIn" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" />][linkedin]
+<a href="https://linkedin.com/in/shan-kim" target="_blank">
+  <img align="left" alt="linkedin | LinkedIn" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" />
+</a>
 
-<br />
-
-### My portfolio website!
-[<img align="left" alt="portfolio | Portfolio" width="30px" src="https://icon-library.com/images/white-website-icon/white-website-icon-6.jpg" />][portfolio]
-
-<br />
+<a href="https://shankim.net/" target="_blank">
+  <img align="left" alt="portfolio | Portfolio" width="30px" src="https://icon-library.com/images/white-website-icon/white-website-icon-6.jpg" />
+</a>
 
 ### Languages and Tools:
 
