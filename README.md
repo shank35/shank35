@@ -1,3 +1,4 @@
+how do i make the links open to another tab
 ### Hello World, I'm Shan 👋
 
 - 🔭 I’m currently working on my YouTube clone.
@@ -10,9 +11,13 @@
   <img align="left" alt="linkedin | LinkedIn" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" />
 </a>
 
-<a href="https://shankim.net/" target="_blank">
-  <img align="left" alt="portfolio | Portfolio" width="30px" src="https://icon-library.com/images/white-website-icon/white-website-icon-6.jpg" />
-</a>
+
+<br />
+
+### My portfolio website!
+[<img align="left" alt="portfolio | Portfolio" width="30px" src="https://icon-library.com/images/white-website-icon/white-website-icon-6.jpg" />][portfolio]
+
+<br />
 
 ### Languages and Tools:
 
