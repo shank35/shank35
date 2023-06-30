@@ -48,6 +48,9 @@
     </td>
   </tr>
 </table>
+![shank35 GitHub stats](https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact)](https://github.com/username/github-readme-stats)
+
 
 [linkedin]: https://linkedin.com/in/shan-kim
 [portfolio]: https://shankim.net/
