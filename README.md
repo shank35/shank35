@@ -8,12 +8,13 @@
 - 🌱 I’m currently learning **Python**
 
 <p>👨‍💻 All of my projects are available at 
-<a href="https://www.shankim.net/" target="_blank">https://www.shankim.net/</a></p>
+<a href="https://www.shankim.net/" target="_blank" rel="noopener noreferrer">https://www.shankim.net/</a></p>
 
-<p>📫 How to reach me: <a href="mailto:shankkim35@gmail.com" target="_blank">shankkim35@gmail.com</a></p>
+<p>📫 How to reach me: <a href="mailto:shankkim35@gmail.com" target="_blank" rel="noopener noreferrer">shankkim35@gmail.com</a></p>
 
 <p>📄 Know about my experiences: 
-<a href="https://tinyurl.com/5h58crdb" target="_blank">Resume</a></p>
+<a href="https://tinyurl.com/5h58crdb" target="_blank" rel="noopener noreferrer">Resume</a></p>
+
 
 
 - ⚡ Fun fact **I like to play volleyball**
