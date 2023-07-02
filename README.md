@@ -7,11 +7,14 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [https://www.shankim.net/](https://www.shankim.net/)
+<p>👨‍💻 All of my projects are available at 
+<a href="https://www.shankim.net/" target="_blank">https://www.shankim.net/</a></p>
 
-- 📫 How to reach me **shankkim35@gmail.com**
+<p>📫 How to reach me: <a href="mailto:shankkim35@gmail.com" target="_blank">shankkim35@gmail.com</a></p>
 
-- 📄 Know about my experiences [Resume](https://tinyurl.com/5h58crdb)
+<p>📄 Know about my experiences: 
+<a href="https://tinyurl.com/5h58crdb" target="_blank">Resume</a></p>
+
 
 - ⚡ Fun fact **I like to play volleyball**
 
