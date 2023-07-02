@@ -11,7 +11,7 @@
 
 📫 How to reach me: [shankkim35@gmail.com](mailto:shankkim35@gmail.com)
 
-📄 Know about my experiences: [Resume](https://tinyurl.com/5h58crdb)
+📄 Know about my experiences: [Resume](https://drive.google.com/file/d/16bKiRklJ8WVnxnDRMzEHg4MdCy0Z3977/view)
 
 - ⚡ Fun fact **I like to play volleyball**
 
